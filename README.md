@@ -18,7 +18,7 @@
   
 - 👯 I’m looking to collaborate on **free and open-source projects**  
   
-- 👨‍💻 All of my projects are available at [wesenseged.netlify.app/](wesenseged.netlify.app/)  
+- 👨‍💻 All of my projects are available at [wesen.vercel.app/](wesen.vercel.app/)  
   
 - 💬 Ask me about **mern, gsap, framer-motion and react-three-fiber**  
   
