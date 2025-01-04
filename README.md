@@ -22,7 +22,7 @@
   
 - 💬 Ask me about **mern, gsap, framer-motion and react-three-fiber**  
   
-- 📫 How to reach me **wesenseged@skiff.com**  
+- 📫 How to reach me **wseged@proton.me**  
   
 - ⚡ Fun fact **I use vim**  
   
